@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guo_HW2", "Guo_HW2\Guo_HW2.csproj", "{A46A18C2-BB0C-4C21-B310-A40196B160EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "SpreadsheetEngine\SpreadsheetEngine.csproj", "{4CD6C63D-C57A-4A0B-A494-D1B12486394E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A46A18C2-BB0C-4C21-B310-A40196B160EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46A18C2-BB0C-4C21-B310-A40196B160EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46A18C2-BB0C-4C21-B310-A40196B160EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46A18C2-BB0C-4C21-B310-A40196B160EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD6C63D-C57A-4A0B-A494-D1B12486394E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD6C63D-C57A-4A0B-A494-D1B12486394E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD6C63D-C57A-4A0B-A494-D1B12486394E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD6C63D-C57A-4A0B-A494-D1B12486394E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
